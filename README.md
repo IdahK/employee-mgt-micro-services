@@ -1,5 +1,19 @@
 # Getting Started
 
+## Employee Management System
+This is a system meant to illustrate the microservice architecture under the Employee Management System.
+
+Currently the microservices comprises of :
+
+* Employee Service for Employee CRUD Operations
+
+The services to be added later :
+* API Gateway Service
+* Authentication Service to handle authentication and authorization operations
+* Notification Service for sending Emails and SMS
+* Reports Engine Service for generating reports
+* Calendar Service for scheduling and creating calendar events
+
 This is an **Employee Management REST Micro Service** created using:
 * Spring Webflux Application (Spring Reactive) - Flux vs Mono
 * Spring Data Reactive Mongodb
