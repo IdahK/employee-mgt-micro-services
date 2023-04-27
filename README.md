@@ -5,7 +5,7 @@ This is a system meant to illustrate the microservice architecture under the Emp
 
 Currently the microservices comprises of :
 
-* Employee Service for Employee CRUD Operations
+* Employee Service for Employee CRUD Operations. You can find it [here](https://github.com/IdahK/employee_mgt_system).
 
 The services to be added later :
 * API Gateway Service
