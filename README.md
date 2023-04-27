@@ -56,15 +56,15 @@ This is a sample service method within this project that fetches all employees f
 Sample Endpoints:
 1. Searching an employee by Name:
 
-    ![img.png](img.png)
+    ![img.png](./images/img.png)
 
 2. Find an employee by their Id:
-    
-    ![img_1.png](img_1.png)
+
+   ![Image showing display employee by id](./images/img_1.png "Image showing display employee by id")
 
 Note:
 For my tests, I have generated test data using Instancio Library as shown below:
-![img_2.png](img_2.png)
+![img_2.png](./images/img_2.png)
 
 Kindly import the postman collection to view and test the apis using:
 
