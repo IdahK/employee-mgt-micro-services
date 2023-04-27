@@ -1,0 +1,3 @@
+[submodule "employee_mgt_system"]
+	path = employee_mgt_system
+	url = https://github.com/IdahK/employee_mgt_system
